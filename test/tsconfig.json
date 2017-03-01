@@ -1,0 +1,15 @@
+{
+    "extends": "../src/tsconfig.json",
+    "compilerOptions": {
+        "target": "es2015", // need it because https://github.com/TypeStrong/ts-node/issues/255
+        "types": [
+            "bluebird",
+            "node",
+            "mocha"
+        ],
+        "noImplicitAny": false // good for tests
+    },
+    "include": [
+      "./**/*"
+    ]
+}
