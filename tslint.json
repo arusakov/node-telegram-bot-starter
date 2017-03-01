@@ -10,7 +10,8 @@
     ],
     "semicolon": [
       true,
-      "never"
+      "never",
+      "ignore-interfaces"
     ],
     "trailing-comma": [
       true, {
