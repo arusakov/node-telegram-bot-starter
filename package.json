@@ -44,7 +44,7 @@
   },
   "homepage": "https://github.com/arusakov/node-telegram-bot-starter#readme",
   "dependencies": {
-    "bluebird": "3.4.7",
+    "bluebird": "3.5.0",
     "node-telegram-bot-api": "^0.27.0",
     "tslib": "1.6.0"
   },
