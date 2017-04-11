@@ -1,4 +1,4 @@
-Note Telegram Bot Startet
+Note Telegram Bot Starter
 =================================
 [![Build Status](https://travis-ci.org/arusakov/node-telegram-bot-starter.svg?branch=master)](https://travis-ci.org/arusakov/node-telegram-bot-starter)
 [![codecov](https://codecov.io/gh/arusakov/node-telegram-bot-starter/branch/master/graph/badge.svg)](https://codecov.io/gh/arusakov/node-telegram-bot-starter)
@@ -6,7 +6,7 @@ Note Telegram Bot Startet
 
 Dependencies
 ------------
-* Node.js (v7.2.1+) and npm (v3+)
+* Node.js (v7.6+) and yarn (v0.21+)
 
 Development
 -----------
