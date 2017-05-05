@@ -1,5 +1,7 @@
 Note Telegram Bot Starter
 =================================
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/arusakov/node-telegram-bot-starter.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/arusakov/node-telegram-bot-starter.svg?branch=master)](https://travis-ci.org/arusakov/node-telegram-bot-starter)
 [![codecov](https://codecov.io/gh/arusakov/node-telegram-bot-starter/branch/master/graph/badge.svg)](https://codecov.io/gh/arusakov/node-telegram-bot-starter)
 [![Known Vulnerabilities](https://snyk.io/test/github/arusakov/node-telegram-bot-starter/badge.svg)](https://snyk.io/test/github/arusakov/node-telegram-bot-starter)
